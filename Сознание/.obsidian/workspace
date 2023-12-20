@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "17ba55742f3a96fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "59e840609fa67eb0",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa85ecbec3828eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "be917d7f81e62021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62cf53b41659379",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8678c5bc442a18a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "939158be806353de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad0ec09712e22197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16361023c48a4730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c946e9b5cb050a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320eb4bdf8e237f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9845773e37f739a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59e840609fa67eb0",
+  "lastOpenFiles": [
+    "Конспекты/Выражения.md",
+    "Конспекты/Основные операции.md",
+    "TG.md",
+    "Как тут всё устроено..md",
+    "Навигация.md",
+    "Шаблоны/Название.md"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "17ba55742f3a96fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3352b1d8205fcee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e840609fa67eb0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d64d349f7ee4343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Конспекты/2.1 Текст. Типы речи.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa85ecbec3828eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "be917d7f81e62021",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8678c5bc442a18a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c214523f3be814ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9e050966dfb6f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "939158be806353de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad0ec09712e22197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16361023c48a4730",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Конспекты/2.1 Текст. Типы речи.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c946e9b5cb050a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Конспекты/2.1 Текст. Типы речи.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "320eb4bdf8e237f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9845773e37f739a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Конспекты/2.1 Текст. Типы речи.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "7d64d349f7ee4343",
+  "lastOpenFiles": [
+    "Конспекты/1.1 Выражения..md",
+    "Конспекты/![[Таблица..md",
+    "Конспекты/2.1 Текст. Типы речи.md",
+    "Конспекты/1.0 Математика.md",
+    "Archicad25/Bifold Okhlynin 2.pln",
+    "Файлы/Таблица. Русский язык.Типы речи.jpeg",
+    "Файлы/WhatsApp Image 2023-12-20 at 17.44.59.jpeg",
+    "Archicad25/Bifold Okhlynin.pln",
+    "Файлы",
+    "Новая папка",
+    "Archicad25",
+    "Конспекты/1.1 Основные операции.md",
+    "Навигация.md",
+    "Как тут всё устроено..md",
+    "TG.md",
+    "Шаблоны/Название.md"
+  ]
+}
