@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TG.md",
+                "file": "Конспекты/2.1 Текст. Типы речи.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TG.md",
+            "file": "Конспекты/2.1 Текст. Типы речи.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TG.md",
+            "file": "Конспекты/2.1 Текст. Типы речи.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TG.md"
+            "file": "Конспекты/2.1 Текст. Типы речи.md"
           }
         }
       }
@@ -146,10 +146,20 @@
   },
   "active": "05d464e78ae8cd79",
   "lastOpenFiles": [
-    "Навигация.md",
-    "TG.md",
-    "Шаблоны/Название.md",
+    "Конспекты/3.1 Физика - наука о неживой природе..md",
+    "Конспекты/2.1 Текст. Типы речи.md",
+    "Конспекты/1.1 Основные операции.md",
+    "Конспекты/1.1 Выражения..md",
     "Как тут всё устроено..md",
+    "Навигация.md",
+    "Конспекты/1.0 Математика.md",
+    "TG.md",
+    "Файлы/Таблица. Русский язык.Типы речи.jpeg",
+    "Файлы",
+    "Archicad25/Bifold Okhlynin.pln",
+    "Archicad25/Bifold Okhlynin 2.pln",
+    "Archicad25",
+    "Шаблоны/Название.md",
     "Задача.md",
     "Расходы Воронеж.md",
     "2023-07-05 er.md",
