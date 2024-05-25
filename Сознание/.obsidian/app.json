@@ -24,5 +24,6 @@
     "editor:unindent-list",
     "editor:undo",
     "editor:redo"
-  ]
+  ],
+  "showInlineTitle": false
 }
